@@ -1,7 +1,7 @@
 {
   "name": "dartgame",
   "version": "0.1.0",
-  "homepage": "https://lmatheny.github.io/cricket",
+  "homepage": "https://bonsburner.github.io/darts",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
