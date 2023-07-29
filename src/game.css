@@ -116,12 +116,15 @@ body {
 }
 
 .rotButton {
-  max-width: 55%;
+  max-width: 37.5%;
   min-height: 15%;
   max-height: 20%;
   background-color: grey;
   border-radius: 15%;
 }
+
+
+
 
 .container {
   display: flex;
